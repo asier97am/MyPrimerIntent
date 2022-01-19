@@ -35,6 +35,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:hint="Name"
+        android:text=""
         android:inputType="textPersonName"
         android:minHeight="48dp"
         app:layout_constraintBottom_toTopOf="@+id/bt2"
